@@ -1,15 +1,11 @@
 # VS Code
 
 ## Neues Projekt mit GitHub als Versionsverwaltung erstellen
-* Im Browser GitHub öffnen und sich anmelden
-* Oben rechts aus dem drop-down Menu mit dem Plus-Icon den Eintrag "New repository" wählen
-* "Repository name" angeben
-* Auf "Create repository" klicken
-* Sich die URL, die unter "Quick setup" rechts neben "SSH" angezeigt wird, merken
+* In GitHub ein neues Repository erstellen.
 * VS Code starten
 * F1 drücken
 * Aus der Liste "Git: Clone" suchen und auswählen
-* Als URL die sich oben gemerkte URL eingeben und die Return Taste drücken
+* Als URL die beim Erstellen des GitHub Repositories gemerkte URL eingeben und die Return Taste drücken
 * Einen Ordner auswählen 
 * Auf "Select Repository Location" klicken. Für das Repository wird dann im ausgewählten Ordner ein neuer Unterordner angelegt.
 * Den neuen Ordner öffnen
