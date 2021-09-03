@@ -6,8 +6,6 @@ Um GitHub zu benutzen:
 * melde dich bei GitHub an
 
 # Neues Repository erstellen
-* 
-
 * Alles speichern
 * git init
 * "Source Control öffnen"

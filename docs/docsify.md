@@ -8,8 +8,9 @@ Um Docsify zu benutzen:
 
 ## [Installieren](https://docsify.js.org/#/quickstart)
 * Um Docsify zu benutzen, muss das npm-Package "docsify-cli" installiert werden.
-* "npm i docsify-cli -g" ausführen
+* Dazu "npm i docsify-cli -g" ausführen
+* Um zu prüfen, ob docsify-cli bereits instlliert ist, "npm list docsify -g --depth=0" ausführen
 
 ## [Initialisieren](https://docsify.js.org/#/quickstart?id=initialize)
 * Damit Docsify innerhalb eines Web Projekts funktioniert, muss das Projekt entsprechend initialisiert werden.
-* "docsify init ./docs" ausführen
+* Dazu "docsify init ./docs" ausführen
