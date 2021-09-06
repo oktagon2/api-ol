@@ -16,7 +16,7 @@ Quelle: https://stackshare.io/stackups/nodejs-vs-npm
 "Npm", "Javascript" and "Great libraries" are the key factors why developers consider Node.js; whereas "Best package management system for javascript", "Open-source" and "Great community" are the primary reasons why npm is favored.
 Quelle: https://stackshare.io/stackups/nodejs-vs-npm
 
-## Deinstallation, falls node.js mit einem Download von https://nodejs.org/en/ installiert wurde
+## Deinstallation
 * Windows Taste > Settings > Apps > Node > Deinstallieren. Das deinstalliert npm und node.js. Siehe https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-installer-to-install-nodejs-and-npm
 
 ## Installation
@@ -27,4 +27,7 @@ Quelle: https://stackshare.io/stackups/nodejs-vs-npm
 * Dabei "Automatically install the necessary tools...." nicht selektieren.
 * Es wird node.js und npm installiert.
 
+## Update
+* Einfach neuere Version darüber installieren. Das sollte klappen. Wir werden sehen.
+* Quelle: https://phoenixnap.com/kb/update-node-js-version Kapitel "Option 1: Update Node.js on Windows and macOS with Installer"
 
