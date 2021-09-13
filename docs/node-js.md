@@ -26,7 +26,7 @@ Quelle: https://stackshare.io/stackups/nodejs-vs-npm
 * Deshalb von https://nodejs.org/en/download/ LTS für Windows herunterladen und installieren.
 * Dabei "Automatically install the necessary tools...." nicht selektieren.
 * Es wird node.js und npm installiert.
-* Die einzelnen Schritte der Installation sind im Dokument [node-js-installieren.pdf](pdf/node-js-installieren.pdf) im Detail dokumentiert.
+* Die einzelnen Schritte der Installation sind im Dokument [node-js-installieren.pdf](pdf/node-js-installieren.pdf ':ignore') im Detail dokumentiert.
 
 ## Update
 * Einfach neuere Version darüber installieren. Das sollte klappen. Wir werden sehen.
