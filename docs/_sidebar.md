@@ -3,4 +3,5 @@
 * [gitbub](github.md)
 * [node.js](node-js.md)
 * [nvm-windows](nvm-windows.md)
+* [Outlook](outlook.md)
 * [VS Code](vs-code.md)
