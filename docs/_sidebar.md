@@ -5,3 +5,4 @@
 * [nvm-windows](nvm-windows.md)
 * [Outlook](outlook.md)
 * [VS Code](vs-code.md)
+* [Übungen](uebungen.md)
