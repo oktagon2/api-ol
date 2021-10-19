@@ -14,3 +14,6 @@ Um Docsify zu benutzen:
 ## [Initialisieren](https://docsify.js.org/#/quickstart?id=initialize)
 * Damit Docsify innerhalb eines Web Projekts funktioniert, muss das Projekt entsprechend initialisiert werden.
 * Dazu "docsify init ./docs" ausführen
+
+## [Doku lokal anschauen](https://docsify.js.org/#/quickstart?id=preview-your-site)
+* Im Terminal "docsify serve docs" eingeben

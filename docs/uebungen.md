@@ -13,9 +13,15 @@ Programmiere ein Mastermind in JavaScript, damit du gegen den Computer spielen k
 * Mach ein View Model.
 * Schreibe eine render()-Funktion, welche das HTML für die View erzeugt.
 * Verwende den svg-Tag und den circle-Tag für die Darstellung von
-** Löcher im Spielbrett
-** die farbigen Pilze für die Farbkombinationen
-** die schwarzen und weissen Nägel für die Bewertung
+  * Löcher im Spielbrett
+  * die farbigen Pilze für die Farbkombinationen
+  * die schwarzen und weissen Nägel für die Bewertung
 * Ein Beispiel für die Darstellung des Boards findest du auf https://github.com/oktagon2/mm1.git
 * Probiere neues zuerst in einem separaten "Ausprobierprojekt" aus und schreibe Lerndokumentation dazu
 * Schreibe Operationspläne, in welchen du die einzelnen Entwicklungsschritte kurz beschreibst
+
+## Tic Tac Toe
+Programmiere ein Tic Tac Toe in JavaScript, so dass zwei Spieler an ihren eigenen Computer gegeneinander spielen können.
+
+* Wie müsste das ungefähr funktionieren?
+* Wie könnte [Express](express.md) dabei helfen?
